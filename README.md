@@ -2,7 +2,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1870--7680-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-1534-4872)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KsiLYc0AAAAJ)
 
-# About Me
+# About Me <img style="height:auto; border-radius:50%;" alt="Avatar" src="https://avatars.githubusercontent.com/u/77669019?v=4" width="50" height="50" class="avatar avatar-user width-full border color-bg-default">
 
 Hi,
 
